@@ -1,0 +1,13 @@
+WAVEONSUI AUTO CLAIM WITH PHRASE
+
+# Cara Install :
+  1. Install Node.Js App ( Jika belum diinstall pada perangkat Anda )
+  2. Buka terminal pada folder ini 
+  3. Jalankan perintah "npm install"
+  4. Selesai.
+
+# Cara Menjalankan :
+  1. Masukkan lists phrase pada file "phrases.txt"
+  2. Buka terminal pada folder ini 
+  3. Jalankan perintah "node main.js"
+  4. Selesai
